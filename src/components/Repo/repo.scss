@@ -1,0 +1,21 @@
+.repo {
+  margin-bottom: 15px;
+  border: 1px solid rgba(0, 0, 0, .1);
+
+  .repo-header {
+
+    h4 {
+      margin: 0;
+    }
+
+    i {
+      cursor: pointer;
+    }
+
+    padding-bottom: 5px;
+  }
+
+  p {
+    margin: 0;
+  }
+}
